@@ -87,7 +87,7 @@ charts.chart2 = function() {
         x: 425,
         y: 80,
         dx: 0,
-        dy: -25
+        dy: -10
       }
     ]
 
