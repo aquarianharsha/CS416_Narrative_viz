@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Narrative Visualization</title>
+  <link rel="stylesheet" type="text/css" href="styles/fullpage.min.css"></style>
+  <link rel="stylesheet" type="text/css" href="styles/style.css"></style>
+</head>
+<body>
+
+  <div id="fullpage">
+    <div class="section">
+
+      <div class="slide" data-anchor="welcome">
+        <h1>Opioid Crisis in the United States (2019)</h1>
+        <div class="intro">
+          <p>&nbsp;</p>
+        </div>
+      </div>
+
+      <div class="slide" data-anchor="dataset">
+        <h2>Overview</h2>
+        <div class="intro">
+          <p>
+            Millions of Americans suffer from pain and are often prescribed opioids to treat their conditions. 
+            However, the dangers of prescription misuse, opioid use disorder, and overdose have been a growing problem 
+            throughout the United States.Drug Overdose remains a major concern in United States. In <b> 2019, 70,630 </b> drug 
+            overdose deaths occurred in the United States. Opioids currently are the main driver of drug overdose deaths. 
+            This includes prescription opioids, synthetic opioids and heroin.
+          </p>
+          <p>
+            The purpose of this visualization is to explore the following question: 
+            Which regions/states have been impacted the most by the opioid crisis/overdose deaths in the US during 2019?
+          </p>
+          <p>
+            Note: 
+            Data for the visualizations are from CDC>org for the year 2019.
+            User's can navigate through the slideshow by clicking the arrows on the left/right sides of the screen, 
+            clicking the navigation dots on top, or using the left/right buttons on a keyboard.
+          </p>  
+        </div>
+      </div>
+
+      <div class="slide" data-anchor="about">
+        <h2>Summary</h2>
+        <div class="intro">
+          <p>
+            <strong>Narrative Structure</strong>
+            The visualization follows an interactive slideshow that guides the user through various scenarios.
+            First slide shows the region wise breakdown across the US for the average deaths due to drug overdose.
+            The 2 slide shows the breakdown of the deaths across different states for each region
+            and the third shows the top 5 states with highest deaths across the country.
+          </p>
+          <p>
+            <strong>Scenes</strong>
+            The first page showcases the average deaths across the various regions showing 
+            an overview of the Drug Overdose within the United States.The following charts show a state wise 
+            breakdown of all states in the US and the Top 5 states with the highest deaths due to the overdose problem.
+          </p>
+          <p>
+            <strong>Annotations</strong>
+            Chart 1 has an annotation that is meant to draw the user's attention to the area of the chart that highlights the 
+            region impacted by the drug overdose problem.
+
+          </p>
+          <p>
+            <strong>Parameters</strong>
+            Charts 2 and 3 include parameters (filters for state, region ) that allow users to interact with the data via filtering.
+            The scenes aim to answer a simple question and these parameters allow users to explore data in more detail.
+            For example, California, Texas, Florida and Northeast states seem to have much more drug overdose deaths than other states.  When a
+            particular region is selected, the scene changes to show the data for the corresponding states in the region. 
+          </p>
+          <p>
+            <strong>Triggers</strong>
+            Choosing different filters on charts 2 and 3 triggers changes to the parameters discussed above and updates the 
+            charts to reflect the changes and show the relevant information just pertaining to the filters selected..
+          </p>
+        </div>
+      </div>
+      
+      <div class="slide" data-anchor="chart1">
+        <h3> Deaths due to Opioid Overdose by Regions (US) </h3>
+        <h4> <b>(2019)</b> </h4>
+        <div class="chart chart1">
+          <svg id="svg1"></svg>
+        </div>
+        <div class="intro">
+          <p>
+            This chart shows that the number of overdose deaths by each region for the year 2019.
+           The regions are classified into 4 categories  - Northeast, South, West, Midwest.
+          </p>
+          <p>
+            This charts shows that most deaths due to the overdose are from Northeast.
+          </p>
+        </div>
+      </div>
+      <div class="slide" data-anchor="chart2">
+        <h3>Drill Down into States that are affected in Top Region(i.e North East) </h3>
+        <div class="chart chart2">
+          <svg id="svg2"></svg>
+        </div>
+        <div class="intro">
+          <p>
+            This chart shows that average number of deaths per state that have happenned in the North East region in US that had the most deaths in the year 2019  
+            New York had the worst death rate in all of the states categorized in North East region closely followed by Pennsylvania and New Jersey
+          </p>
+          <p>
+            This chart ultimately answers the question which states in the US have the worst death rate due to Opioid crisis in the top affected region(North East) - 
+            Based on the visualization(height of bars) its clear that not all states have high death rate in the given North East region. 
+            The chart also throws light on Vermont that has the least deaths compared to rest of the states in the region.
+            The top 3 states that have highest Opioid related deaths are Pennsylvania, New York and New Jersey with New York taking the pole postition on a this grim metric so that the state officials can take necessary measures to control opioid access
+          </p>
+        </div>
+      </div>
+      <div class="slide" data-anchor="chart3">
+        <h3>State breakdown</h3>
+        <div class="chart chart3">
+          <svg id="svg3"></svg>
+          <input type="checkbox" checked="checked" value="South" id="checkbox-South" onClick="updateChart3Data()">South</input>
+          <input type="checkbox" checked="checked" value="West" id="checkbox-West" onClick="updateChart3Data()">West</input>
+          <input type="checkbox" checked="checked" value="Midwest" id="checkbox-Midwest" onClick="updateChart3Data()">Midwest</input>
+          <input type="checkbox" checked="checked" value="Northeast" id="checkbox-Northeast" onClick="updateChart3Data()">Northeast</input>
+        </div>
+        <div class="intro">
+          <p>
+            This chart shows the number of deaths across all the states in the US. 
+            There is an option to drilldown to a specific region to see the data for that particular region.
+          </p>
+          <p>
+            Based on these 3 charts it's clear that drug overdose problem has affected almost all the states of the US. 
+            This illustrates how legitimate clinical prescriptions of pain relievers are leading to misuse, addiction, and death.
+            This is an epidemic that needs to be addressed to avoid raise in the overdose deaths.
+          </p>
+        </div>
+      </div>
+      <div class="slide" data-anchor="source">
+        <h2>Sources</h2>
+        <div class="intro">
+          <p>
+            <strong>Dataset</strong><br/>
+            <a href="https://www.cdc.gov/drugoverdose/deaths" target="_blank">
+              https://www.cdc.gov/drugoverdose/deaths
+            </a>
+          </p>
+          <p>
+            <strong>Fullpage.js (used for slideshow)</strong><br/>
+            <a href="https://github.com/alvarotrigo/fullPage.js" target="_blank">
+              https://github.com/alvarotrigo/fullPage.js
+            </a>
+          </p>
+          <p>
+            <strong>Source code</strong><br/>
+            <a href="https://github.com/" target="_blank">
+              https://github.com/
+            </a>
+          </p>
+          <p>
+            <strong>References</strong><br/>
+            <a href="https://www.cdc.gov/opioids/basics/epidemic.html" target="_blank">
+              https://www.cdc.gov/opioids/basics/epidemic.html
+            </a>
+          </p> 
+        </div>
+      </div>
+    </div>
+  </div>
+    
+
+  <script src="scripts/scrolloverflow.min.js"></script>
+  <script src="scripts/fullpage.min.js"></script>
+  <script src="scripts/d3.v4.min.js"></script>
+  <script src="https://d3js.org/d3-color.v1.min.js"></script>
+  <script src="https://d3js.org/d3-interpolate.v1.min.js"></script>
+  <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/d3-array@3"></script>
+  <script src="https://rawgit.com/susielu/d3-annotation/master/d3-annotation.min.js"></script>
+  <script>
+    var charts = {};
+  </script>
+  <script src="scripts/chart1.js"></script>
+  <script src="scripts/chart2.js"></script>
+  <script src="scripts/chart3.js"></script>
+  <script src="scripts/main.js"></script>
+</body>
+</html>

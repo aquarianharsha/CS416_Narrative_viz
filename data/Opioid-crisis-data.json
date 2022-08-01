@@ -1,0 +1,1583 @@
+[
+  {
+    "State": "Alabama",
+    "State Code": "AL",
+    "US_Regions": "South",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 835,
+        "Synthetic": 209,
+        "Heroin": 209,
+        "Prescription": 209,
+        "OtherDrugs": 208
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 775,
+        "Synthetic": 194,
+        "Heroin": 194,
+        "Prescription": 194,
+        "OtherDrugs": 193
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 768,
+        "Synthetic": 192,
+        "Heroin": 192,
+        "Prescription": 192,
+        "OtherDrugs": 192
+      }
+    ]
+  },
+  {
+    "State": "Alaska",
+    "State Code": "AK",
+    "US_Regions": "West",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 147,
+        "Synthetic": 51,
+        "Heroin": 36,
+        "Prescription": 36,
+        "OtherDrugs": 24
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 110,
+        "Prescription": 47,
+        "Heroin": 29,
+        "Synthetic": 22,
+        "OtherDrugs": 21
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 132,
+        "Prescription": 47,
+        "Heroin": 44,
+        "Synthetic": 21,
+        "OtherDrugs": 20
+      }
+    ]
+  },
+  {
+    "State": "Arizona",
+    "State Code": "AZ",
+    "US_Regions": "West",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 1532,
+        "Prescription": 450,
+        "Heroin": 334,
+        "Synthetic": 51,
+        "OtherDrugs": 334
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 1670,
+        "Prescription": 362,
+        "Heroin": 352,
+        "Synthetic": 522,
+        "OtherDrugs": 434
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 1907,
+        "Prescription": 364,
+        "Heroin": 271,
+        "Synthetic": 796,
+        "OtherDrugs": 476
+      }
+    ]
+  },
+  {
+    "State": "Arkansas",
+    "State Code": "AR",
+    "US_Regions": "South",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 446,
+        "Prescription": 112,
+        "Heroin": 112,
+        "Synthetic": 111,
+        "OtherDrugs": 111
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 444,
+        "Prescription": 119,
+        "Heroin": 117,
+        "Synthetic": 92,
+        "OtherDrugs": 116
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 388,
+        "Prescription": 98,
+        "Heroin": 88,
+        "Synthetic": 115,
+        "OtherDrugs": 87
+      }
+    ]
+  },
+  {
+    "State": "California",
+    "State Code": "CA",
+    "US_Regions": "West",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 4868,
+        "Prescription": 1169,
+        "Heroin": 715,
+        "Synthetic": 715,
+        "OtherDrugs": 2269
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 5348,
+        "Prescription": 1084,
+        "Heroin": 778,
+        "Synthetic": 865,
+        "OtherDrugs": 2621
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 6198,
+        "Prescription": 1073,
+        "Heroin": 964,
+        "Synthetic": 1675,
+        "OtherDrugs": 2486
+      }
+    ]
+  },
+  {
+    "State": "Colorado",
+    "State Code": "CO",
+    "US_Regions": "West",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 1015,
+        "Prescription": 300,
+        "Heroin": 224,
+        "Synthetic": 224,
+        "OtherDrugs": 267
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 995,
+        "Prescription": 268,
+        "Heroin": 233,
+        "Synthetic": 134,
+        "OtherDrugs": 360
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 1079,
+        "Prescription": 258,
+        "Heroin": 215,
+        "Synthetic": 255,
+        "OtherDrugs": 351
+      }
+    ]
+  },
+  {
+    "State": "Connecticut",
+    "State Code": "CT",
+    "US_Regions": "Northeast",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 1150,
+        "Prescription": 273,
+        "Heroin": 425,
+        "Synthetic": 425,
+        "OtherDrugs": 27
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 1350,
+        "Prescription": 231,
+        "Heroin": 338,
+        "Synthetic": 767,
+        "OtherDrugs": 14
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 1617,
+        "Prescription": 283,
+        "Heroin": 339,
+        "Synthetic": 950,
+        "OtherDrugs": 45
+      }
+    ]
+  },
+  {
+    "State": "Delaware",
+    "State Code": "DE",
+    "US_Regions": "South",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 338,
+        "Prescription": 85,
+        "Heroin": 85,
+        "Synthetic": 84,
+        "OtherDrugs": 84
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 540,
+        "Prescription": 82,
+        "Heroin": 143,
+        "Synthetic": 296,
+        "OtherDrugs": 19
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 535,
+        "Prescription": 75,
+        "Heroin": 109,
+        "Synthetic": 343,
+        "OtherDrugs": 8
+      }
+    ]
+  },
+  {
+    "State": "District of Columbia",
+    "State Code": "DC",
+    "US_Regions": "South",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 432,
+        "Prescription": 58,
+        "Heroin": 127,
+        "Synthetic": 127,
+        "OtherDrugs": 120
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 332,
+        "Prescription": 41,
+        "Heroin": 79,
+        "Synthetic": 162,
+        "OtherDrugs": 50
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 476,
+        "Prescription": 36,
+        "Heroin": 85,
+        "Synthetic": 216,
+        "OtherDrugs": 139
+      }
+    ]
+  },
+  {
+    "State": "Florida",
+    "State Code": "FL",
+    "US_Regions": "South",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 5088,
+        "Prescription": 1272,
+        "Heroin": 707,
+        "Synthetic": 1555,
+        "OtherDrugs": 1554
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 4698,
+        "Prescription": 1282,
+        "Heroin": 689,
+        "Synthetic": 2091,
+        "OtherDrugs": 636
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 5268,
+        "Prescription": 1190,
+        "Heroin": 698,
+        "Synthetic": 2837,
+        "OtherDrugs": 543
+      }
+    ]
+  },
+  {
+    "State": "Georgia",
+    "State Code": "GA",
+    "US_Regions": "South",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 1537,
+        "Prescription": 568,
+        "Heroin": 263,
+        "Synthetic": 263,
+        "OtherDrugs": 443
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 1404,
+        "Prescription": 440,
+        "Heroin": 299,
+        "Synthetic": 349,
+        "OtherDrugs": 316
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 1408,
+        "Prescription": 396,
+        "Heroin": 298,
+        "Synthetic": 419,
+        "OtherDrugs": 295
+      }
+    ]
+  },
+  {
+    "State": "Hawaii",
+    "State Code": "HI",
+    "US_Regions": "West",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 203,
+        "Prescription": 40,
+        "Heroin": 76,
+        "Synthetic": 10,
+        "OtherDrugs": 77
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 213,
+        "Prescription": 33,
+        "Heroin": 60,
+        "Synthetic": 60,
+        "OtherDrugs": 60
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 242,
+        "Prescription": 26,
+        "Heroin": 72,
+        "Synthetic": 72,
+        "OtherDrugs": 72
+      }
+    ]
+  },
+  {
+    "State": "Idaho",
+    "State Code": "ID",
+    "US_Regions": "West",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 236,
+        "Prescription": 59,
+        "Heroin": 59,
+        "Synthetic": 59,
+        "OtherDrugs": 59
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 250,
+        "Prescription": 75,
+        "Heroin": 29,
+        "Synthetic": 28,
+        "OtherDrugs": 118
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 265,
+        "Prescription": 81,
+        "Heroin": 38,
+        "Synthetic": 32,
+        "OtherDrugs": 114
+      }
+    ]
+  },
+  {
+    "State": "Illinois",
+    "State Code": "IL",
+    "US_Regions": "Midwest",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 3050,
+        "Prescription": 623,
+        "Heroin": 1187,
+        "Synthetic": 1187,
+        "OtherDrugs": 53
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 3200,
+        "Prescription": 539,
+        "Heroin": 1050,
+        "Synthetic": 1566,
+        "OtherDrugs": 45
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 3289,
+        "Prescription": 545,
+        "Heroin": 978,
+        "Synthetic": 1706,
+        "OtherDrugs": 60
+      }
+    ]
+  },
+  {
+    "State": "Indiana",
+    "State Code": "IN",
+    "US_Regions": "Midwest",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 1852,
+        "Prescription": 425,
+        "Heroin": 327,
+        "Synthetic": 550,
+        "OtherDrugs": 550
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 1629,
+        "Prescription": 370,
+        "Heroin": 311,
+        "Synthetic": 713,
+        "OtherDrugs": 235
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 1699,
+        "Prescription": 400,
+        "Heroin": 308,
+        "Synthetic": 899,
+        "OtherDrugs": 92
+      }
+    ]
+  },
+  {
+    "State": "Iowa",
+    "State Code": "IA",
+    "US_Regions": "Midwest",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 341,
+        "Prescription": 104,
+        "Heroin": 61,
+        "Synthetic": 61,
+        "OtherDrugs": 115
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 287,
+        "Prescription": 64,
+        "Heroin": 37,
+        "Synthetic": 80,
+        "OtherDrugs": 106
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 352,
+        "Prescription": 60,
+        "Heroin": 45,
+        "Synthetic": 102,
+        "OtherDrugs": 145
+      }
+    ]
+  },
+  {
+    "State": "Kansas",
+    "State Code": "KS",
+    "US_Regions": "Midwest",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 333,
+        "Prescription": 83,
+        "Heroin": 83,
+        "Synthetic": 83,
+        "OtherDrugs": 83
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 345,
+        "Prescription": 87,
+        "Heroin": 33,
+        "Synthetic": 50,
+        "OtherDrugs": 175
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 403,
+        "Prescription": 85,
+        "Heroin": 42,
+        "Synthetic": 75,
+        "OtherDrugs": 201
+      }
+    ]
+  },
+  {
+    "State": "Kentucky",
+    "State Code": "KY",
+    "US_Regions": "South",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 1566,
+        "Prescription": 433,
+        "Heroin": 269,
+        "Synthetic": 269,
+        "OtherDrugs": 595
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 1315,
+        "Prescription": 315,
+        "Heroin": 140,
+        "Synthetic": 744,
+        "OtherDrugs": 116
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 1380,
+        "Prescription": 345,
+        "Heroin": 152,
+        "Synthetic": 825,
+        "OtherDrugs": 58
+      }
+    ]
+  },
+  {
+    "State": "Louisiana",
+    "State Code": "LA",
+    "US_Regions": "South",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 1108,
+        "Prescription": 277,
+        "Heroin": 277,
+        "Synthetic": 277,
+        "OtherDrugs": 277
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 1140,
+        "Prescription": 285,
+        "Heroin": 285,
+        "Synthetic": 285,
+        "OtherDrugs": 285
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 1267,
+        "Prescription": 317,
+        "Heroin": 317,
+        "Synthetic": 316,
+        "OtherDrugs": 317
+      }
+    ]
+  },
+  {
+    "State": "Maine",
+    "State Code": "ME",
+    "US_Regions": "Northeast",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 424,
+        "Prescription": 100,
+        "Heroin": 76,
+        "Synthetic": 76,
+        "OtherDrugs": 172
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 500,
+        "Prescription": 69,
+        "Heroin": 71,
+        "Synthetic": 229,
+        "OtherDrugs": 131
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 471,
+        "Prescription": 73,
+        "Heroin": 58,
+        "Synthetic": 283,
+        "OtherDrugs": 57
+      }
+    ]
+  },
+  {
+    "State": "Maryland",
+    "State Code": "MD",
+    "US_Regions": "South",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 2247,
+        "Prescription": 711,
+        "Heroin": 522,
+        "Synthetic": 522,
+        "OtherDrugs": 492
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 2860,
+        "Prescription": 576,
+        "Heroin": 356,
+        "Synthetic": 1825,
+        "OtherDrugs": 103
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 2754,
+        "Prescription": 589,
+        "Heroin": 209,
+        "Synthetic": 1917,
+        "OtherDrugs": 39
+      }
+    ]
+  },
+  {
+    "State": "Massachusetts",
+    "State Code": "MA",
+    "US_Regions": "Northeast",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 2168,
+        "Prescription": 321,
+        "Heroin": 466,
+        "Synthetic": 466,
+        "OtherDrugs": 915
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 3002,
+        "Prescription": 331,
+        "Heroin": 475,
+        "Synthetic": 1806,
+        "OtherDrugs": 390
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 2678,
+        "Prescription": 288,
+        "Heroin": 375,
+        "Synthetic": 1861,
+        "OtherDrugs": 154
+      }
+    ]
+  },
+  {
+    "State": "Michigan",
+    "State Code": "MI",
+    "US_Regions": "Midwest",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 2694,
+        "Prescription": 633,
+        "Heroin": 783,
+        "Synthetic": 783,
+        "OtherDrugs": 495
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 2897,
+        "Prescription": 556,
+        "Heroin": 633,
+        "Synthetic": 1531,
+        "OtherDrugs": 177
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 2456,
+        "Prescription": 454,
+        "Heroin": 477,
+        "Synthetic": 1458,
+        "OtherDrugs": 67
+      }
+    ]
+  },
+  {
+    "State": "Minnesota",
+    "State Code": "MN",
+    "US_Regions": "Midwest",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 733,
+        "Prescription": 195,
+        "Heroin": 111,
+        "Synthetic": 111,
+        "OtherDrugs": 316
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 636,
+        "Prescription": 136,
+        "Heroin": 93,
+        "Synthetic": 202,
+        "OtherDrugs": 205
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 792,
+        "Prescription": 143,
+        "Heroin": 106,
+        "Synthetic": 309,
+        "OtherDrugs": 234
+      }
+    ]
+  },
+  {
+    "State": "Mississippi",
+    "State Code": "MS",
+    "US_Regions": "South",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 354,
+        "Prescription": 96,
+        "Heroin": 34,
+        "Synthetic": 112,
+        "OtherDrugs": 112
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 310,
+        "Prescription": 92,
+        "Heroin": 39,
+        "Synthetic": 72,
+        "OtherDrugs": 107
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 394,
+        "Prescription": 97,
+        "Heroin": 78,
+        "Synthetic": 141,
+        "OtherDrugs": 78
+      }
+    ]
+  },
+  {
+    "State": "Missouri",
+    "State Code": "MO",
+    "US_Regions": "Midwest",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 1367,
+        "Prescription": 253,
+        "Heroin": 299,
+        "Synthetic": 299,
+        "OtherDrugs": 516
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 1610,
+        "Prescription": 265,
+        "Heroin": 351,
+        "Synthetic": 868,
+        "OtherDrugs": 126
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 1583,
+        "Prescription": 242,
+        "Heroin": 224,
+        "Synthetic": 886,
+        "OtherDrugs": 231
+      }
+    ]
+  },
+  {
+    "State": "Montana",
+    "State Code": "MT",
+    "US_Regions": "West",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 119,
+        "Prescription": 29,
+        "Heroin": 30,
+        "Synthetic": 30,
+        "OtherDrugs": 30
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 125,
+        "Prescription": 26,
+        "Heroin": 22,
+        "Synthetic": 39,
+        "OtherDrugs": 38
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 143,
+        "Prescription": 33,
+        "Heroin": 27,
+        "Synthetic": 41,
+        "OtherDrugs": 42
+      }
+    ]
+  },
+  {
+    "State": "Nebraska",
+    "State Code": "NE",
+    "US_Regions": "Midwest",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 152,
+        "Prescription": 38,
+        "Heroin": 38,
+        "Synthetic": 38,
+        "OtherDrugs": 38
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 138,
+        "Prescription": 41,
+        "Heroin": 35,
+        "Synthetic": 26,
+        "OtherDrugs": 36
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 161,
+        "Prescription": 39,
+        "Heroin": 48,
+        "Synthetic": 27,
+        "OtherDrugs": 47
+      }
+    ]
+  },
+  {
+    "State": "Nevada",
+    "State Code": "NV",
+    "US_Regions": "West",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 676,
+        "Prescription": 276,
+        "Heroin": 94,
+        "Synthetic": 94,
+        "OtherDrugs": 212
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 688,
+        "Prescription": 235,
+        "Heroin": 108,
+        "Synthetic": 85,
+        "OtherDrugs": 260
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 647,
+        "Prescription": 189,
+        "Heroin": 122,
+        "Synthetic": 114,
+        "OtherDrugs": 222
+      }
+    ]
+  },
+  {
+    "State": "New Hampshire",
+    "State Code": "NH",
+    "US_Regions": "Northeast",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 467,
+        "Prescription": 62,
+        "Heroin": 28,
+        "Synthetic": 28,
+        "OtherDrugs": 349
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 452,
+        "Prescription": 43,
+        "Heroin": 11,
+        "Synthetic": 386,
+        "OtherDrugs": 12
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 407,
+        "Prescription": 45,
+        "Heroin": 10,
+        "Synthetic": 343,
+        "OtherDrugs": 9
+      }
+    ]
+  },
+  {
+    "State": "New Jersey",
+    "State Code": "NJ",
+    "US_Regions": "Northeast",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 2685,
+        "Prescription": 672,
+        "Heroin": 671,
+        "Synthetic": 671,
+        "OtherDrugs": 671
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 4123,
+        "Prescription": 517,
+        "Heroin": 1287,
+        "Synthetic": 2219,
+        "OtherDrugs": 100
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 3897,
+        "Prescription": 456,
+        "Heroin": 1007,
+        "Synthetic": 2221,
+        "OtherDrugs": 213
+      }
+    ]
+  },
+  {
+    "State": "New Mexico",
+    "State Code": "NM",
+    "US_Regions": "West",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 493,
+        "Prescription": 171,
+        "Heroin": 144,
+        "Synthetic": 144,
+        "OtherDrugs": 34
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 537,
+        "Prescription": 176,
+        "Heroin": 130,
+        "Synthetic": 105,
+        "OtherDrugs": 126
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 599,
+        "Prescription": 179,
+        "Heroin": 182,
+        "Synthetic": 149,
+        "OtherDrugs": 89
+      }
+    ]
+  },
+  {
+    "State": "New York",
+    "State Code": "NY",
+    "US_Regions": "Northeast",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 3921,
+        "Prescription": 1044,
+        "Heroin": 1356,
+        "Synthetic": 1356,
+        "OtherDrugs": 165
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 4445,
+        "Prescription": 998,
+        "Heroin": 1243,
+        "Synthetic": 2195,
+        "OtherDrugs": 9
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 4578,
+        "Prescription": 939,
+        "Heroin": 1145,
+        "Synthetic": 2338,
+        "OtherDrugs": 156
+      }
+    ]
+  },
+  {
+    "State": "North Carolina",
+    "State Code": "NC",
+    "US_Regions": "South",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 2414,
+        "Prescription": 659,
+        "Heroin": 537,
+        "Synthetic": 537,
+        "OtherDrugs": 681
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 2467,
+        "Prescription": 489,
+        "Heroin": 619,
+        "Synthetic": 1272,
+        "OtherDrugs": 87
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 2456,
+        "Prescription": 420,
+        "Heroin": 586,
+        "Synthetic": 1363,
+        "OtherDrugs": 87
+      }
+    ]
+  },
+  {
+    "State": "North Dakota",
+    "State Code": "ND",
+    "US_Regions": "Midwest",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 68,
+        "Prescription": 17,
+        "Heroin": 17,
+        "Synthetic": 17,
+        "OtherDrugs": 17
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 70,
+        "Prescription": 24,
+        "Heroin": 15,
+        "Synthetic": 15,
+        "OtherDrugs": 16
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 82,
+        "Prescription": 27,
+        "Heroin": 18,
+        "Synthetic": 18,
+        "OtherDrugs": 19
+      }
+    ]
+  },
+  {
+    "State": "Ohio",
+    "State Code": "OH",
+    "US_Regions": "Midwest",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 5111,
+        "Prescription": 947,
+        "Heroin": 1000,
+        "Synthetic": 1000,
+        "OtherDrugs": 2164
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 4213,
+        "Prescription": 571,
+        "Heroin": 721,
+        "Synthetic": 2783,
+        "OtherDrugs": 138
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 4251,
+        "Prescription": 477,
+        "Heroin": 527,
+        "Synthetic": 3117,
+        "OtherDrugs": 130
+      }
+    ]
+  },
+  {
+    "State": "Oklahoma",
+    "State Code": "OK",
+    "US_Regions": "South",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 775,
+        "Prescription": 251,
+        "Heroin": 61,
+        "Synthetic": 61,
+        "OtherDrugs": 402
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 716,
+        "Prescription": 172,
+        "Heroin": 84,
+        "Synthetic": 79,
+        "OtherDrugs": 381
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 645,
+        "Prescription": 133,
+        "Heroin": 75,
+        "Synthetic": 81,
+        "OtherDrugs": 356
+      }
+    ]
+  },
+  {
+    "State": "Oregon",
+    "State Code": "OR",
+    "US_Regions": "West",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 530,
+        "Prescription": 154,
+        "Heroin": 124,
+        "Synthetic": 124,
+        "OtherDrugs": 128
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 547,
+        "Prescription": 151,
+        "Heroin": 154,
+        "Synthetic": 97,
+        "OtherDrugs": 145
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 615,
+        "Prescription": 127,
+        "Heroin": 149,
+        "Synthetic": 95,
+        "OtherDrugs": 244
+      }
+    ]
+  },
+  {
+    "State": "Pennsylvania",
+    "State Code": "PA",
+    "US_Regions": "Northeast",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 5388,
+        "Prescription": 1347,
+        "Heroin": 1347,
+        "Synthetic": 1347,
+        "OtherDrugs": 1347
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 4415,
+        "Prescription": 1104,
+        "Heroin": 1104,
+        "Synthetic": 1104,
+        "OtherDrugs": 1103
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 4377,
+        "Prescription": 1095,
+        "Heroin": 1094,
+        "Synthetic": 1095,
+        "OtherDrugs": 1093
+      }
+    ]
+  },
+  {
+    "State": "Rhode Island",
+    "State Code": "RI",
+    "US_Regions": "Northeast",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 320,
+        "Prescription": 99,
+        "Heroin": 14,
+        "Synthetic": 14,
+        "OtherDrugs": 193
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 317,
+        "Prescription": 85,
+        "Heroin": 10,
+        "Synthetic": 213,
+        "OtherDrugs": 9
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 307,
+        "Prescription": 63,
+        "Heroin": 21,
+        "Synthetic": 203,
+        "OtherDrugs": 20
+      }
+    ]
+  },
+  {
+    "State": "South Carolina",
+    "State Code": "SC",
+    "US_Regions": "South",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 1008,
+        "Prescription": 345,
+        "Heroin": 153,
+        "Synthetic": 153,
+        "OtherDrugs": 357
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 1125,
+        "Prescription": 375,
+        "Heroin": 183,
+        "Synthetic": 510,
+        "OtherDrugs": 57
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 1127,
+        "Prescription": 351,
+        "Heroin": 197,
+        "Synthetic": 568,
+        "OtherDrugs": 11
+      }
+    ]
+  },
+  {
+    "State": "South Dakota",
+    "State Code": "SD",
+    "US_Regions": "Midwest",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 73,
+        "Prescription": 19,
+        "Heroin": 18,
+        "Synthetic": 18,
+        "OtherDrugs": 18
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 57,
+        "Prescription": 14,
+        "Heroin": 14,
+        "Synthetic": 15,
+        "OtherDrugs": 14
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 86,
+        "Prescription": 21,
+        "Heroin": 21,
+        "Synthetic": 22,
+        "OtherDrugs": 22
+      }
+    ]
+  },
+  {
+    "State": "Tennessee",
+    "State Code": "TN",
+    "US_Regions": "South",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 1776,
+        "Prescription": 644,
+        "Heroin": 311,
+        "Synthetic": 311,
+        "OtherDrugs": 510
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 1823,
+        "Prescription": 550,
+        "Heroin": 369,
+        "Synthetic": 827,
+        "OtherDrugs": 77
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 2089,
+        "Prescription": 515,
+        "Heroin": 380,
+        "Synthetic": 1152,
+        "OtherDrugs": 42
+      }
+    ]
+  },
+  {
+    "State": "Texas",
+    "State Code": "TX",
+    "US_Regions": "South",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 2989,
+        "Prescription": 646,
+        "Heroin": 569,
+        "Synthetic": 569,
+        "OtherDrugs": 1205
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 3005,
+        "Prescription": 547,
+        "Heroin": 668,
+        "Synthetic": 358,
+        "OtherDrugs": 1432
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 3136,
+        "Prescription": 535,
+        "Heroin": 730,
+        "Synthetic": 423,
+        "OtherDrugs": 1448
+      }
+    ]
+  },
+  {
+    "State": "Utah",
+    "State Code": "UT",
+    "US_Regions": "West",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 650,
+        "Prescription": 315,
+        "Heroin": 147,
+        "Synthetic": 147,
+        "OtherDrugs": 41
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 624,
+        "Prescription": 306,
+        "Heroin": 156,
+        "Synthetic": 83,
+        "OtherDrugs": 79
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 571,
+        "Prescription": 277,
+        "Heroin": 139,
+        "Synthetic": 94,
+        "OtherDrugs": 61
+      }
+    ]
+  },
+  {
+    "State": "Vermont",
+    "State Code": "VT",
+    "US_Regions": "Northeast",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 134,
+        "Prescription": 40,
+        "Heroin": 41,
+        "Synthetic": 41,
+        "OtherDrugs": 12
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 250,
+        "Prescription": 27,
+        "Heroin": 68,
+        "Synthetic": 106,
+        "OtherDrugs": 49
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 189,
+        "Prescription": 29,
+        "Heroin": 40,
+        "Synthetic": 100,
+        "OtherDrugs": 20
+      }
+    ]
+  },
+  {
+    "State": "Virginia",
+    "State Code": "VA",
+    "US_Regions": "South",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 1600,
+        "Prescription": 404,
+        "Heroin": 556,
+        "Synthetic": 556,
+        "OtherDrugs": 84
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 1789,
+        "Prescription": 326,
+        "Heroin": 532,
+        "Synthetic": 852,
+        "OtherDrugs": 79
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 1834,
+        "Prescription": 306,
+        "Heroin": 532,
+        "Synthetic": 993,
+        "OtherDrugs": 3
+      }
+    ]
+  },
+  {
+    "State": "Washington",
+    "State Code": "WA",
+    "US_Regions": "West",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 1169,
+        "Prescription": 343,
+        "Heroin": 306,
+        "Synthetic": 306,
+        "OtherDrugs": 214
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 1164,
+        "Prescription": 301,
+        "Heroin": 328,
+        "Synthetic": 221,
+        "OtherDrugs": 314
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 1259,
+        "Prescription": 268,
+        "Heroin": 346,
+        "Synthetic": 337,
+        "OtherDrugs": 308
+      }
+    ]
+  },
+  {
+    "State": "West Virginia",
+    "State Code": "WV",
+    "US_Regions": "South",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 974,
+        "Prescription": 304,
+        "Heroin": 244,
+        "Synthetic": 244,
+        "OtherDrugs": 182
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 1098,
+        "Prescription": 234,
+        "Heroin": 195,
+        "Synthetic": 551,
+        "OtherDrugs": 118
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 945,
+        "Prescription": 185,
+        "Heroin": 142,
+        "Synthetic": 572,
+        "OtherDrugs": 46
+      }
+    ]
+  },
+  {
+    "State": "Wisconsin",
+    "State Code": "WI",
+    "US_Regions": "Midwest",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 1350,
+        "Prescription": 362,
+        "Heroin": 414,
+        "Synthetic": 414,
+        "OtherDrugs": 160
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 1200,
+        "Prescription": 301,
+        "Heroin": 327,
+        "Synthetic": 506,
+        "OtherDrugs": 66
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 1362,
+        "Prescription": 282,
+        "Heroin": 292,
+        "Synthetic": 660,
+        "OtherDrugs": 128
+      }
+    ]
+  },
+  {
+    "State": "Wyoming",
+    "State Code": "WY",
+    "US_Regions": "West",
+    "Data": [
+      {
+        "Year": 2017,
+        "TotalDeaths": 69,
+        "Prescription": 31,
+        "Heroin": 12,
+        "Synthetic": 13,
+        "OtherDrugs": 13
+      },
+      {
+        "Year": 2018,
+        "TotalDeaths": 66,
+        "Prescription": 27,
+        "Heroin": 13,
+        "Synthetic": 13,
+        "OtherDrugs": 13
+      },
+      {
+        "Year": 2019,
+        "TotalDeaths": 79,
+        "Prescription": 28,
+        "Heroin": 17,
+        "Synthetic": 17,
+        "OtherDrugs": 17
+      }
+    ]
+  }
+]

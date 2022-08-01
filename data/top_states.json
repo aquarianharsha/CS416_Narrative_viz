@@ -1,0 +1,107 @@
+ [ 
+   {
+    "State": "California",
+    "State_code": "CA",
+    "US_Regions": "West",
+    "Drug_type": "Heroin"
+    "Deaths_by_drug_2019":964
+	},
+	  {
+    "State": "California",
+    "State_code": "CA",
+    "US_Regions": "West",
+    "Drug_type": "Opioids"
+    "Deaths_by_drug_2019":2748
+	},
+	  {
+    "State": "California",
+    "State_code": "CA",
+    "US_Regions": "West",
+    "Drug_type": "Others"
+    "Deaths_by_drug_2019":2486
+	},
+	{
+    "State": "New York",
+    "State_code": "NY",
+    "US_Regions": "Northeast",
+    "Drug_type": "Heroin"
+    "Deaths_by_drug_2019":1145
+	},
+	{
+    "State": "New York",
+    "State_code": "NY",
+    "US_Regions": "Northeast",
+    "Drug_type": "Opioids"
+    "Deaths_by_drug_2019":3134
+	},
+	{
+    "State": "New York",
+    "State_code": "NY",
+    "US_Regions": "Northeast",
+    "Drug_type": "Others"
+    "Deaths_by_drug_2019":156
+	},
+	{
+    "State": "Florida",
+    "State_code": "FL",
+    "US_Regions": "South",
+    "Drug_type": "Heroin"
+    "Deaths_by_drug_2019":698
+	},
+	{
+    "State": "Florida",
+    "State_code": "FL",
+    "US_Regions": "South",
+    "Drug_type": "Opioids"
+    "Deaths_by_drug_2019":4027
+	},
+	{
+    "State": "Florida",
+    "State_code": "FL",
+    "US_Regions": "South",
+    "Drug_type": "Others"
+    "Deaths_by_drug_2019":543
+	},
+	{
+    "State": "Ohio",
+    "State_code": "OH",
+    "US_Regions": "Midwest",
+    "Drug_type": "Heroin"
+    "Deaths_by_drug_2019":527
+	},
+	{
+    "State": "Ohio",
+    "State_code": "OH",
+    "US_Regions": "Midwest",
+    "Drug_type": "Opioids"
+    "Deaths_by_drug_2019":3594
+	},
+	{
+    "State": "Ohio",
+    "State_code": "OH",
+    "US_Regions": "Midwest",
+    "Drug_type": "Others"
+    "Deaths_by_drug_2019":130
+	},
+	{
+    "State": "Pennsylvania",
+    "State_code": "PA",
+    "US_Regions": "Northeast",
+    "Drug_type": "Heroin"
+    "Deaths_by_drug_2019":1094
+	},
+	{
+    "State": "Pennsylvania",
+    "State_code": "PA",
+    "US_Regions": "Northeast",
+    "Drug_type": "Opioids"
+    "Deaths_by_drug_2019":2190
+	},
+	{
+    "State": "Pennsylvania",
+    "State_code": "PA",
+    "US_Regions": "Northeast",
+    "Drug_type": "Others"
+    "Deaths_by_drug_2019":1093
+	}
+]
